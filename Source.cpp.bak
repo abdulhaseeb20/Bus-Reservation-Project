@@ -213,8 +213,3 @@ void busstatus() {
 	cout << "3. ISB-FSD\t\t\t9:00 pm.\n";
 
 }
-
-void displayfunc()
-{
-	cout<<"display"<<endl;
-}
